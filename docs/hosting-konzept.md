@@ -76,8 +76,8 @@ Benjamin Franke hostet seine eigene n8n-Infrastruktur auf UpCloud Frankfurt:
 
 | Kundentyp | Empfohlenes Modell | Begründung |
 |-----------|-------------------|------------|
-| 1 Workflow, datenschutz-unktritisch | Option B (Shared) | Günstig, schnell |
-| 1 Workflow, datenschutz-sensibel | Option A (Self-Hosted) | DSGVO-konform |
+| 1 Workflow, unkritische Daten | Option B (Shared) | Günstig, schnell |
+| 1 Workflow, sensible Daten | Option A (Self-Hosted) | DSGVO-konform |
 | 2–3 Workflows | Option C (VPS) | Isoliert & skalierbar |
 | 4+ Workflows | Option C (VPS) | Eigene Infrastruktur lohnt sich |
 

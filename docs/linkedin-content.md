@@ -2,7 +2,7 @@
 
 ---
 
-## Post 1: Handwerker + KI – die ungewöhnliche Kombination
+## Post 1: Vom Mechaniker zum KI-Experten – warum das Sinn macht
 
 **Typ:** Positionierung / Story
 **Ton:** Authentisch, persönlich
@@ -13,19 +13,15 @@
 **Headline:** Vom Industriemechaniker zum KI-Automatisierer – warum das Sinn macht.
 
 Ich bin ausgebildeter Industriemechaniker. Jahrelang Maschinenbau, Fahrradtechnik, Arbeitsvorbereitung.
-Und heute baue ich KI-gestützte n8n-Workflows für kleine Betriebe.
+Und heute baue ich KI-gestützte n8n-Workflows.
 
 Klingt nach einem Bruch? Ist es nicht.
 
-Was ich in der Werkstatt gelernt habe: Prozesse verstehen. Den Unterschied zwischen „läuft irgendwie" und „läuft rund" kennen. Wissen, wo Zeit versickert.
+Was ich gelernt habe: Prozesse verstehen. Den Unterschied zwischen „läuft irgendwie" und „läuft rund" kennen. Wissen, wo Zeit versickert.
 
 Genau das mache ich jetzt – nur digital statt mechanisch.
 
-Ich spreche beide Sprachen:
-🔧 Die der Werkstatt – Angebote, Rechnungen, Terminchaos, Excel-Tabellen
-💻 Die der Digitalisierung – n8n, KI-APIs, Automation, CRM
-
-Meine Kunden sind Handwerksbetriebe und lokale Dienstleister, die keinen eigenen IT-Menschen haben.
+Meine Kunden sind kleine Unternehmen, Selbstständige und Coaches, die keinen eigenen IT-Menschen haben.
 Ihre Probleme sind konkret:
 - 5 Stunden/Woche für Angebotserstellung
 - Termine, die zwischen WhatsApp und E-Mail verschwinden
@@ -35,7 +31,7 @@ Dafür baue ich Lösungen. Keine Laber-Workshops, keine 50-Seiten-Konzepte. Funk
 
 👉 Wer einen Betrieb kennt, der genau diese Schmerzen hat – immer her mit der Vernetzung.
 
-#KIAutomatisierung #HandwerkDigital #n8n #Prozessoptimierung #Selbstständigkeit
+#KIAutomatisierung #Prozessoptimierung #n8n #Digitalisierung #Selbstständigkeit
 
 ---
 
@@ -49,7 +45,8 @@ Dafür baue ich Lösungen. Keine Laber-Workshops, keine 50-Seiten-Konzepte. Funk
 
 **Headline:** 5 Stunden pro Woche – für Angebote, die sich immer wiederholen.
 
-Ein Malerbetrieb, 12 Mitarbeiter. Jede Woche 15+ Angebote.
+Ein Handwerksbetrieb? Ein Consulting-Büro? Ein Coaches? Überall dasselbe.
+Ein Unternehmen, 12 Mitarbeiter. Jede Woche 15+ Angebote.
 Bisher: E-Mail-Vorlage kopieren, Daten eintippen, PDF exportieren, versenden. 30 Minuten pro Angebot.
 = 7,5 Stunden pro Woche. Ein ganzer Arbeitstag. Für Copy & Paste.
 
@@ -70,7 +67,7 @@ Das Gleiche ist für Rechnungen, Terminbuchungen, Kundenkommunikation möglich.
 
 Ich zeige es Ihnen im kostenlosen Erstgespräch. 90 Minuten, unverbindlich, konkret.
 
-#n8n #WorkflowAutomation #Handwerk #Digitalisierung #KIAutomation
+#n8n #WorkflowAutomation #KMU #Digitalisierung #KIAutomation
 
 ---
 
@@ -94,14 +91,14 @@ Weil meine Kostenstruktur mein Geschäftsmodell bestimmt:
 → Keine unnötigen Fixkosten
 
 Das heißt für meine Kunden: faire Preise. Ich muss keine 120 €/Stunde verlangen, nur um meine Overheads zu decken.
-Ich kann Automationen für kleine Betriebe bauen, die sich *wirklich* rechnen.
+Ich kann Automationen für kleine Unternehmen bauen, die sich *wirklich* rechnen.
 60–85 €/Stunde. Festpreise. Keine versteckten Kosten.
 
-Und ehrlich: Es ist ein gutes Gespräch, wenn ich am Küchentisch eines Malermeisters sitze und wir gemeinsam überlegen, welche Prozesse ihn jeden Tag nerven. Da ist es egal, ob ich im Zelt oder im Hochhaus wohne.
+Und ehrlich: Am besten ist es, wenn ich mit meinen Kunden zusammensitze und wir gemeinsam überlegen, welche Prozesse sie jeden Tag nerven. Da ist es egal, ob ich im Zelt oder im Hochhaus wohne.
 
-⁉️ Kennen Sie einen Betrieb, der 5+ Stunden/Woche mit Papierkram verliert? Schicken Sie ihn mir. Das Erstgespräch ist kostenlos und verpflichtet zu nichts.
+⁉️ Kennen Sie jemanden, der 5+ Stunden/Woche mit Papierkram verliert? Schicken Sie ihn mir. Das Erstgespräch ist kostenlos und verpflichtet zu nichts.
 
-#Selbstständigkeit #LifecycleSynergy #Digitalisierung #Handwerk #OffGrid
+#Selbstständigkeit #LifecycleSynergy #Digitalisierung #Prozessoptimierung #OffGrid
 
 ---
 
@@ -109,6 +106,6 @@ Und ehrlich: Es ist ein gutes Gespräch, wenn ich am Küchentisch eines Malermei
 
 - **Frequenz:** Post 1 (Positionierung) zuerst, dann Post 2 (Use Case) 3–4 Tage später, dann Post 3 (Story) nach einer Woche
 - **Hashtags:** 3–5 pro Post, nicht mehr – LinkedIn mag das
-- **Visuals:** Am besten mit einem Foto (Zelt-Arbeitsplatz, Workflow-Screenshot, oder Handwerker-Kunden-Situation)
+- **Visuals:** Am besten mit einem Foto (Zelt-Arbeitsplatz, Workflow-Screenshot, oder echte Kundensituation)
 - **Engagement:** In Kommentaren aktiv antworten – das boosted die Reichweite enorm
 - **GitHub-Link:** Im Kommentar oder im „Featured"-Bereich des Profils verlinken

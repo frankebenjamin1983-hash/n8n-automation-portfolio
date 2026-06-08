@@ -1,15 +1,15 @@
 # n8n Automation Portfolio – Benjamin Franke / Lifecycle Synergy
 
-> **„Ich baue KI-gestützte Automationen mit n8n für kleine Betriebe und Selbstständige, die keinen eigenen IT-Menschen haben – damit Routineaufgaben laufen, ohne dass jemand dran denkt.“**
+> **„Ich baue KI-gestützte Automationen mit n8n für Betriebe und Selbstständige, die keinen eigenen IT-Menschen haben – damit Routineaufgaben laufen, ohne dass jemand dran denkt.“**
 
 ---
 
 ## Über mich
 
-**Benjamin Franke** – ausgebildeter Industriemechaniker, heute KI-Automatisierungs-Entwickler.  
-Ich verbinde handwerkliches Prozessverständnis mit n8n-Workflow-Entwicklung und KI-Integration.
+**Benjamin Franke** – ausgebildeter Industriemechaniker, heute KI-Automatisierungs-Entwickler.
+Ich verbinde praktisches Prozessverständnis mit n8n-Workflow-Entwicklung und KI-Integration.
 
-Meine Stärke: Ich spreche beide Sprachen – die der Werkstatt und die der Digitalisierung.
+Meine Stärke: Ich mache Digitalisierung praxistauglich – egal ob Werkstatt, Beratung oder Vereinsverwaltung.
 
 📍 Mobil von der Weser aus | 🛰️ Starlink | 🖥️ Lenovo P53
 
@@ -31,7 +31,7 @@ Meine Stärke: Ich spreche beide Sprachen – die der Werkstatt und die der Digi
 ## Beispiel-Workflows
 
 ### 🔧 Angebotserstellung automatisieren
-**Problem:** Ein Malerbetrieb erstellt 15+ Angebote pro Woche manuell – jede Anfrage bedeutet 30 Minuten Copy & Paste.  
+**Problem:** Ein Betrieb erstellt 15+ Angebote pro Woche manuell – jede Anfrage bedeutet 30 Minuten Copy & Paste.  
 **Lösung:** n8n-Workflow nimmt E-Mail-Anfragen entgegen, extrahiert Daten per KI, erstellt PDF-Angebot und sendet es zur Freigabe.  
 **Ergebnis:** ⏱️ 5 Stunden/Woche gespart
 

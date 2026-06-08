@@ -2,7 +2,7 @@
 
 ## Profiltitel
 
-**KI-Automatisierung mit n8n | Prozessoptimierung für Handwerk & KMU**
+**KI-Automatisierung mit n8n | Prozessoptimierung für KMU & Selbstständige**
 
 ## Überschrift (Tagline)
 
@@ -12,7 +12,7 @@ n8n Workflow-Entwickler – ich automatisiere Ihre wiederkehrenden Büroprozesse
 
 Ausgebildeter Industriemechaniker mit Leidenschaft für Digitalisierung. Ich baue n8n-Workflows mit KI-Integration für kleine Betriebe und Selbstständige – praxisnah, datenschutzkonform, sofort nutzbar.
 
-Meine Stärke: Ich verstehe sowohl die Prozesse in der Werkstatt als auch die Technik dahinter. Kein IT-Sprech, sondern Lösungen, die funktionieren.
+Meine Stärke: Ich verstehe Betriebsabläufe und weiss, wie Digitalisierung wirklich hilft. Kein IT-Sprech, sondern Lösungen, die funktionieren.
 
 ## Leistungen (für Malt-Kategorien)
 
@@ -53,7 +53,7 @@ Meine Stärke: Ich verstehe sowohl die Prozesse in der Werkstatt als auch die Te
 
 ## Warum ich?
 
-✅ **Handwerker-Expertise** – Ich verstehe Betriebsabläufe, nicht nur Code
+✅ **Praxiserfahrung** – Ich verstehe Betriebsabläufe, nicht nur Code
 ✅ **Datenschutz first** – Lokale KI-Modelle statt Cloud-Zwang
 ✅ **Faire Festpreise** – 60–85 €/Std. | Workflows ab 300 €
 ✅ **Pragmatisch** – Was heute funktioniert, ist besser als Perfektion nächste Woche

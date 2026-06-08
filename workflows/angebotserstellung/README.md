@@ -1,7 +1,7 @@
 # Angebotserstellung automatisieren
 
 ## Problem
-Ein Handwerksbetrieb erhält 15+ Angebotsanfragen pro Woche per E-Mail.  
+Ein Betrieb erhält 15+ Angebotsanfragen pro Woche per E-Mail.  
 Bisher: Manuelles Copy & Paste aus Vorlagen → 30 Minuten pro Angebot → ~7,5 Std./Woche.
 
 ## Lösung

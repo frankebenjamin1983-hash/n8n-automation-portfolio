@@ -21,9 +21,9 @@
 ## Für Kunden
 
 Dieses Portfolio richtet sich an:
-- **Handwerksbetriebe** (1–20 MA), die Zeit & Kosten sparen wollen
-- **Lokale Dienstleister** mit repetitiven Büro-Abläufen
-- **Coaches & Solopreneure** mit Digitalisierungsbedarf
+- **Kleine und mittlere Unternehmen** (1–20 MA), die Zeit & Kosten sparen wollen
+- **Selbstständige, Coaches & Berater** mit Digitalisierungsbedarf
+- **Dienstleister & Vereine** mit repetitiven Abläufen
 
 **Schmerzpunkte**, die wir lösen:
 - Angebote manuell per E-Mail → automatisch aus Vorlage
