@@ -1,0 +1,22 @@
+# .gitignore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# n8n exports / temp
+*.json.backup
+*.bak
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets (never commit)
+.env
+*.env.local
