@@ -3,6 +3,9 @@
 Nach Barbara Sher: **Zyklisch-synergistischer Scanner**
 - Zyklen kehren in verschiedenen Tiefen wieder
 - Am Schnittpunkt der Interessen entsteht Innovation
+- „Es gab noch den Wanderer, Bergsteiger, Wassersport, Gangster, Obdachloser, Fahrradmechanik, Modellbau, uvm."
+
+> **Insgesamt: Ein Scanner mit 13+ aktiven Zyklen – vernetzt, nicht linear.**
 
 ---
 
@@ -24,7 +27,7 @@ Nach Barbara Sher: **Zyklisch-synergistischer Scanner**
 
 ---
 
-## Zyklus B: 3D-Druck / CNC / Prototyping ⚙️
+## Zyklus B: 3D-Druck / CNC / Fräsen ⚙️
 
 **Status:** Aktiv (via YouTube, Maker-Praxis)
 
@@ -39,17 +42,18 @@ Nach Barbara Sher: **Zyklisch-synergistischer Scanner**
 
 **Verbindet mit:**
 - → Zyklus E (YouTube: 3D-Druck-Tutorials, Projekte)
-- → Zyklus A (3D-Druck-Automation? Prototypen-Workflows?)
+- → Zyklus L (Modellbau – 3D-Druck für Scale-Modelle)
 
 ---
 
-## Zyklus C: Fahrrad & E-Bike 🚲
+## Zyklus C: E-Bike / Fahrradmechanik 🚲
 
 **Status:** Ruhend (aber tiefe Wurzeln)
 
 | Phase | Was | Wann |
 |-------|-----|------|
 | 🟢 Deep Dive | E-Bike-Diagnose (Bosch, Shimano, Brose, Panasonic) | 2024–2025 |
+| 🟢 Grundlage | Fahrradmechanik – Reparatur, Aufbau, Wartung | 2010–2025 |
 | 🟢 Grundlage | Selbstständiger Fahrradservice (Nebengewerbe) | 2010–2016 |
 | 🟡 Aktiv | Fahrradkurier Berlin (Logistik!) | 2022–2023 |
 | ⚪ Ruhend | (seit Agentur-Aufbau pausiert) | – |
@@ -57,7 +61,7 @@ Nach Barbara Sher: **Zyklisch-synergistischer Scanner**
 **Scanner-Moment:** *Vom Fahrradservice über Fahrradkurier zur E-Bike-Diagnose – jedes Mal tiefer*
 
 **Verbindet mit:**
-- → Zyklus B (3D-Druck für Fahrradteile)
+- → Zyklus B (3D-Druck für Fahrradteile, custom Parts)
 - → Zyklus E (EbikeSense – YouTube-Kanal-Idee)
 - → Zyklus A (Prozess-Logistik-Automation?)
 
@@ -103,7 +107,7 @@ Nach Barbara Sher: **Zyklisch-synergistischer Scanner**
 
 ---
 
-## Zyklus F: Off-Grid / Outdoor / Lebensstil 🏕️
+## Zyklus F: Off-Grid / Outdoor / Camping 🏕️
 
 **Status:** Aktiv (Lebensrealität)
 
@@ -118,19 +122,148 @@ Nach Barbara Sher: **Zyklisch-synergistischer Scanner**
 **Verbindet mit:**
 - → Zyklus E (OutVibes – YouTube-Content)
 - → Zyklus A (Meine Kostenstruktur = faire Preise für Kunden)
+- → Zyklus G (Wandern/Bergsteiger – Outdoor als Lebensstil)
 
 ---
 
-## Zyklus-Übersicht: Aktuelle Energieverteilung
+## Zyklus G: Wandern & Bergsteigen 🏔️
+
+**Status:** Aktiv (Saisonabhängig)
+
+| Phase | Was | Wann |
+|-------|-----|------|
+| 🟡 Aktiv | Wandern, Bergtouren, Weserbergland | laufend |
+| 🟢 Grundlage | Bergsport als Ausgleich zur Bildschirmarbeit | immer |
+| 🟢 Geplant | Outdoor-Content für OutVibes | Idee |
+
+**Scanner-Moment:** *Draußen sein ist nicht Pause – es ist der andere Pol des Zyklus. Digital + Analog.*
+
+**Verbindet mit:**
+- → Zyklus F (Outdoor/Off-Grid – gleiche Lebensphilosophie)
+- → Zyklus E (Wander-Videos für YouTube)
+
+---
+
+## Zyklus H: Wassersport 🌊
+
+**Status:** Aktiv (Saisonabhängig)
+
+| Phase | Was | Wann |
+|-------|-----|------|
+| 🟡 Aktiv | Kajak, Schwimmen, Weser | laufend |
+| 🟢 Geplant | Wassersport-Content | Idee |
+
+**Verbindet mit:**
+- → Zyklus F (Outdoor-Lebensstil an der Weser)
+- → Zyklus G (Wandern + Wasser = Outdoor-Kombi)
+
+---
+
+## Zyklus I: Gangster / Counter-Culture 🕶️
+
+**Status:** Kultureller Einfluss
+
+| Phase | Was | Wann |
+|-------|-----|------|
+| 🟡 Aktiv | Faszination für Subkultur, Gangster-Ästhetik | immer |
+| 🟢 Grundlage | Filme, Musik, Style, Rebellion gegen System | seit Jugend |
+
+**Scanner-Moment:** *Gangster ist nicht Kriminalität – es ist der Geist des Ausbrechens aus Normen. Vom Festanstellungs-System ins Jurtenzelt.*
+
+**Verbindet mit:**
+- → Zyklus F (Aussteiger-Leben = Gangster-Mindset)
+- → Zyklus A (Agentur gründen statt Arbeitnehmer sein = rebel move)
+- → Zyklus K (Obdachlos – freiwillige Radikalität)
+
+---
+
+## Zyklus J: Obdachloser (freiwillig) 🛖
+
+**Status:** Phase abgeschlossen / Lebenserfahrung
+
+| Phase | Was | Wann |
+|-------|-----|------|
+| 🟢 Erfahren | Freiwilliger Verzicht auf feste Wohnung | 2024 |
+| 🟢 Erfahren | Leben mit Minimum, maximale Freiheit | laufend |
+| ⚪ Reflektiert | Hat die Kostenstruktur geprägt (230€/Monat) | – |
+
+**Scanner-Moment:** *Nicht Opfer, sondern bewusste Entscheidung. Wer ohne Sicherheitsnetz lebt, lernt Systeme von einer anderen Seite kennen.*
+
+**Verbindet mit:**
+- → Zyklus F (Off-Grid/Jurtenzelt = stabile Form)
+- → Zyklus I (Gangster – Ausbrechen aus Systemen)
+- → Zyklus A (Minimalkosten = faire Preise = Wettbewerbsvorteil)
+
+---
+
+## Zyklus K: Modellbau ✈️
+
+**Status:** Ruhend / Wiederkehr erwartet
+
+| Phase | Was | Wann |
+|-------|-----|------|
+| 🟢 Grundlage | RC-Modelle, Scale-Modellbau, Detailarbeit | früher |
+| ⚪ Ruhend | (wartet auf Wiederkehr mit 3D-Druck) | – |
+
+**Scanner-Moment:** *Modellbau ist der Vater von 3D-Druck. Heute kann ich drucken, was ich früher von Hand gebaut habe.*
+
+**Verbindet mit:**
+- → Zyklus B (3D-Druck für Modellbau-Teile)
+- → Zyklus E (Modellbau-Content auf YouTube)
+
+---
+
+## Zyklus L: Mechanik pur 🔧
+
+**Status:** Grundlage aller anderen Zyklen
+
+| Phase | Was | Wann |
+|-------|-----|------|
+| 🟢 Deep Dive | Industriemechaniker-Ausbildung | 2000er |
+| 🟢 Deep Dive | Instandhaltung, Maschinenbau, Präzision | 2010er |
+| 🟢 Grundlage | Für ALLE anderen Zyklen die Basis | immer |
+
+**Scanner-Moment:** *Ohne die Mechanik gäbe es nichts von alledem. Sie ist der Ursprungs-Zyklus.*
+
+**Verbindet mit:**
+- → ALLE Zyklen (Mechanik = Prozessverständnis)
+
+---
+
+## Zyklus M: uvm. – Der offene Zyklus 🌱
+
+**Status:** Immer bereit für Neues
+
+Scanner entdecken ständig neue Interessen. Dieser Zyklus ist der Platzhalter für alles, was noch kommt. Die Liste wächst.
+
+---
+
+## Zyklus-Übersicht: Alle 13 Zyklen
 
 ```
-Zyklus A: KI/Agentur     ████████████████░░░░░░░░  80%  ← Business
-Zyklus B: 3D/CNC         ██████░░░░░░░░░░░░░░░░░░  30%  ← YouTube
-Zyklus C: Fahrrad        ██░░░░░░░░░░░░░░░░░░░░░░  10%  ← ruhend
-Zyklus D: Python         ██████░░░░░░░░░░░░░░░░░░  30%  ← Basis
-Zyklus E: Content        ████░░░░░░░░░░░░░░░░░░░░  20%  ← Aufbau
-Zyklus F: Off-Grid       ████░░░░░░░░░░░░░░░░░░░░  20%  ← Lebensstil
+🔵 A: KI/Agentur       ████████████████░░░░░░░░  80%  ← Business
+⚙️  B: 3D/CNC          ██████░░░░░░░░░░░░░░░░░░  30%  ← YouTube
+🚲 C: E-Bike/Rad      ██░░░░░░░░░░░░░░░░░░░░░░  10%  ← ruhend (kehrt wieder)
+🐍 D: Python           ██████░░░░░░░░░░░░░░░░░░  30%  ← Basis
+🎬 E: Content/YouTube  ████░░░░░░░░░░░░░░░░░░░░  20%  ← Aufbau
+🏕️ F: Off-Grid/Camping ████░░░░░░░░░░░░░░░░░░░░  20%  ← Lebensstil
+🏔️ G: Wandern/Berg     ███░░░░░░░░░░░░░░░░░░░░░  15%  ← Saison
+🌊 H: Wassersport      ██░░░░░░░░░░░░░░░░░░░░░░  10%  ← Saison
+🕶️ I: Gangster/Culture ██░░░░░░░░░░░░░░░░░░░░░░  10%  ← Mindset
+🛖 J: Obdachlos        █░░░░░░░░░░░░░░░░░░░░░░░   5%  ← Erfahrung
+✈️ K: Modellbau        █░░░░░░░░░░░░░░░░░░░░░░░   5%  ← ruhend
+🔧 L: Mechanik pur     ████████████████████████  100%  ← Fundament
+🌱 M: uvm.             ████████████████████████   ∞   ← Offen
 ```
+
+---
+
+## Scanner-Muster: Die 4 Phasen eines Zyklus
+
+1. **🟢 Grundlage** – Basis-Wissen, langjährig, oft vergessen
+2. **🟢 Deep Dive** – Monate- bis jahrelanger Fokus, hohe Tiefe
+3. **🟡 Aktiv** – Laufend, regelmäßig, aber nicht im Deep Dive
+4. **⚪ Ruhend** – Pausiert, aber nicht vergessen – taucht wieder auf
 
 ---
 
@@ -141,6 +274,8 @@ Zyklus F: Off-Grid       ████░░░░░░░░░░░░░░�
 3. **Schnittpunkte sind Gold** – wo 2+ Zyklen sich treffen, entsteht Innovation
 4. **Business ist der Anker** – Zyklus A finanziert alle anderen
 5. **Widerstand ist kein Fehler** – wenn ein Zyklus sich schwer anfühlt, ist es Zeit für einen anderen
+6. **Jeder Zyklus hat seinen Wert** – auch „Gangster" und „Obdachlos" formen die Perspektive
+7. **Die Liste wächst** – uvm. ist kein Witz, sondern Programm
 
 ---
 
