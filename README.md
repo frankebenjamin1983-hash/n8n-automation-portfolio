@@ -1,15 +1,15 @@
 # n8n Automation Portfolio – Benjamin Franke / Lifecycle Synergy
 
-> **„Ich baue KI-gestützte Automationen mit n8n für Betriebe und Selbstständige, die keinen eigenen IT-Menschen haben – damit Routineaufgaben laufen, ohne dass jemand dran denkt.“**
+> **„Freiberuflicher Aufbau einer KI-Automatisierungs-Agentur. Spezialisiert auf n8n-Workflows für Unternehmen, die keine IT-Abteilung haben – damit Prozesse laufen, ohne dass jemand dran denkt.“**
 
 ---
 
 ## Über mich
 
-**Benjamin Franke** – ausgebildeter Industriemechaniker, heute KI-Automatisierungs-Entwickler.
+**Benjamin Franke** – ausgebildeter Industriemechaniker, heute freiberuflicher Agentur-Gründer im Bereich KI-Automatisierung.
 Ich verbinde praktisches Prozessverständnis mit n8n-Workflow-Entwicklung und KI-Integration.
 
-Meine Stärke: Ich mache Digitalisierung praxistauglich – egal ob Werkstatt, Beratung oder Vereinsverwaltung.
+Meine Mission: **Lifecycle Synergy** als Agentur für intelligente Automation aufbauen – skalierbar, zuverlässig, praxisnah.
 
 📍 Mobil von der Weser aus | 🛰️ Starlink | 🖥️ Lenovo P53
 

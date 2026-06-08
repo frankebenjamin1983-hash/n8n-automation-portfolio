@@ -1,16 +1,16 @@
-# Malt / Upwork Profil – Textbausteine
+# Malt / Upwork / Freelance.de – Profil Textbausteine
 
 ## Profiltitel
 
-**KI-Automatisierung mit n8n | Prozessoptimierung für KMU & Selbstständige**
+**KI-Automatisierung mit n8n | Agentur-Aufbau & Prozessoptimierung für KMU**
 
 ## Überschrift (Tagline)
 
-n8n Workflow-Entwickler – ich automatisiere Ihre wiederkehrenden Büroprozesse mit KI.
+n8n Workflow-Entwickler & Agentur-Gründer – ich automatisiere Ihre wiederkehrenden Büroprozesse mit KI.
 
 ## Über mich (Kurz)
 
-Ausgebildeter Industriemechaniker mit Leidenschaft für Digitalisierung. Ich baue n8n-Workflows mit KI-Integration für kleine Betriebe und Selbstständige – praxisnah, datenschutzkonform, sofort nutzbar.
+Ausgebildeter Industriemechaniker, heute freiberuflicher Agentur-Gründer im Bereich KI-Automatisierung. Ich baue Lifecycle Synergy auf – eine Agentur für n8n-Workflows mit KI-Integration. Praxisnah, datenschutzkonform, skalierbar.
 
 Meine Stärke: Ich verstehe Betriebsabläufe und weiss, wie Digitalisierung wirklich hilft. Kein IT-Sprech, sondern Lösungen, die funktionieren.
 
@@ -62,4 +62,5 @@ Meine Stärke: Ich verstehe Betriebsabläufe und weiss, wie Digitalisierung wirk
 ## Portfolio-Nachweise
 
 → GitHub: github.com/frankebenjamin1983-hash/n8n-automation-portfolio
+→ Freelance.de: (Profil anlegen)
 → (Website in Aufbau)

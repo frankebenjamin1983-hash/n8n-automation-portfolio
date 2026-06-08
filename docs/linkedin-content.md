@@ -2,26 +2,26 @@
 
 ---
 
-## Post 1: Vom Mechaniker zum KI-Experten – warum das Sinn macht
+## Post 1: Vom Mechaniker zum Agentur-Gründer – warum das Sinn macht
 
 **Typ:** Positionierung / Story
-**Ton:** Authentisch, persönlich
-**Ziel:** Aufmerksamkeit für die Nischenkombination
+**Ton:** Authentisch, persönlich, ambitioniert
+**Ziel:** Klarmachen: Ich baue keine einfachen Workflows, ich baue eine Agentur auf.
 
 ---
 
-**Headline:** Vom Industriemechaniker zum KI-Automatisierer – warum das Sinn macht.
+**Headline:** Vom Industriemechaniker zum Gründer einer KI-Agentur – der ungewöhnlichste Karriereweg, den ich kenne.
 
 Ich bin ausgebildeter Industriemechaniker. Jahrelang Maschinenbau, Fahrradtechnik, Arbeitsvorbereitung.
-Und heute baue ich KI-gestützte n8n-Workflows.
+Und heute baue ich **Lifecycle Synergy** auf – eine KI-Automatisierungs-Agentur.
 
 Klingt nach einem Bruch? Ist es nicht.
 
-Was ich gelernt habe: Prozesse verstehen. Den Unterschied zwischen „läuft irgendwie" und „läuft rund" kennen. Wissen, wo Zeit versickert.
+Was ich in der Praxis gelernt habe: Prozesse verstehen. Den Unterschied zwischen „läuft irgendwie" und „läuft rund" kennen. Wissen, wo Zeit versickert.
 
-Genau das mache ich jetzt – nur digital statt mechanisch.
+Genau das mache ich jetzt – nur digital statt mechanisch. Und ich skaliere es.
 
-Meine Kunden sind kleine Unternehmen, Selbstständige und Coaches, die keinen eigenen IT-Menschen haben.
+Meine Kunden sind Unternehmen, Selbstständige und Coaches, die keine IT-Abteilung haben.
 Ihre Probleme sind konkret:
 - 5 Stunden/Woche für Angebotserstellung
 - Termine, die zwischen WhatsApp und E-Mail verschwinden
