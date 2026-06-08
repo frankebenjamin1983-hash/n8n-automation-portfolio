@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lifecycle Synergy – KI-Automatisierung mit n8n</title>
+    <meta name="description" content="Benjamin Franke – KI-gestützte n8n-Workflow-Automation für Handwerk & lokale Dienstleister. Prozesse optimieren, Zeit sparen, Kosten senken.">
+    <style>
+        :root {
+            --primary: #0a2540;
+            --accent: #00c9a7;
+            --accent-dim: #009b80;
+            --bg: #f8fafc;
+            --card-bg: #ffffff;
+            --text: #1e293b;
+            --text-muted: #64748b;
+            --border: #e2e8f0;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+        }
+        .container { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
+
+        /* Hero */
+        .hero {
+            background: linear-gradient(135deg, var(--primary) 0%, #1a3a5c 100%);
+            color: white;
+            padding: 80px 0 60px;
+        }
+        .hero h1 { font-size: 2.8rem; font-weight: 700; line-height: 1.2; margin-bottom: 16px; }
+        .hero .subtitle {
+            font-size: 1.2rem; color: rgba(255,255,255,0.8);
+            max-width: 650px; margin-bottom: 32px;
+        }
+        .hero .tagline {
+            font-size: 1rem; color: var(--accent);
+            border-left: 3px solid var(--accent); padding-left: 16px;
+            font-style: italic;
+        }
+        .cta-button {
+            display: inline-block; background: var(--accent); color: var(--primary);
+            padding: 14px 36px; border-radius: 8px; text-decoration: none;
+            font-weight: 600; font-size: 1.05rem; transition: all 0.2s;
+        }
+        .cta-button:hover { background: var(--accent-dim); transform: translateY(-1px); }
+
+        /* Sections */
+        section { padding: 60px 0; }
+        section h2 {
+            font-size: 1.8rem; font-weight: 700; margin-bottom: 16px;
+            color: var(--primary);
+        }
+        section .section-desc {
+            color: var(--text-muted); max-width: 650px; margin-bottom: 40px;
+        }
+
+        /* Leistungen */
+        .services-grid {
+            display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 24px;
+        }
+        .service-card {
+            background: var(--card-bg); border: 1px solid var(--border);
+            border-radius: 12px; padding: 28px; transition: all 0.2s;
+        }
+        .service-card:hover { box-shadow: 0 4px 20px rgba(0,0,0,0.08); border-color: var(--accent); }
+        .service-card .icon { font-size: 2rem; margin-bottom: 12px; }
+        .service-card h3 { font-size: 1.15rem; margin-bottom: 8px; color: var(--primary); }
+        .service-card p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 12px; }
+        .service-card .price { color: var(--accent); font-weight: 600; font-size: 0.9rem; }
+
+        /* Workflows */
+        .workflow-list { display: flex; flex-direction: column; gap: 16px; }
+        .workflow-item {
+            background: var(--card-bg); border: 1px solid var(--border);
+            border-radius: 10px; padding: 20px 24px;
+            display: flex; justify-content: space-between; align-items: center;
+            flex-wrap: wrap; gap: 12px;
+        }
+        .workflow-item .info h3 { font-size: 1rem; color: var(--primary); margin-bottom: 4px; }
+        .workflow-item .info p { color: var(--text-muted); font-size: 0.9rem; }
+        .workflow-item .result { color: var(--accent); font-weight: 600; font-size: 0.9rem; white-space: nowrap; }
+
+        /* Preise */
+        .pricing-table {
+            width: 100%; border-collapse: collapse; margin-top: 16px;
+        }
+        .pricing-table th, .pricing-table td {
+            text-align: left; padding: 12px 16px; border-bottom: 1px solid var(--border);
+        }
+        .pricing-table th { background: var(--primary); color: white; font-weight: 600; }
+        .pricing-table tr:hover { background: rgba(0,201,167,0.04); }
+        .pricing-table .price-col { text-align: right; font-weight: 600; white-space: nowrap; }
+        .pricing-table .free { color: var(--accent); }
+
+        /* Über mich */
+        .about-grid {
+            display: grid; grid-template-columns: 1fr 1fr;
+            gap: 40px; align-items: start;
+        }
+        @media (max-width: 768px) { .about-grid { grid-template-columns: 1fr; } }
+        .about-grid h3 { color: var(--primary); margin-bottom: 8px; font-size: 1.1rem; }
+        .about-grid ul { list-style: none; padding: 0; }
+        .about-grid ul li { padding: 6px 0; color: var(--text-muted); font-size: 0.95rem; }
+        .about-grid ul li::before { content: "▹ "; color: var(--accent); }
+
+        /* Kontakt */
+        .contact-box {
+            background: var(--primary); color: white; border-radius: 12px;
+            padding: 40px; text-align: center;
+        }
+        .contact-box h2 { color: white; }
+        .contact-box p { color: rgba(255,255,255,0.7); margin-bottom: 24px; }
+        .contact-box .email { font-size: 1.2rem; color: var(--accent); font-weight: 600; }
+
+        /* Footer */
+        footer {
+            border-top: 1px solid var(--border); padding: 24px 0;
+            text-align: center; color: var(--text-muted); font-size: 0.85rem;
+        }
+
+        /* Responsive */
+        @media (max-width: 640px) {
+            .hero h1 { font-size: 2rem; }
+            .hero { padding: 60px 0 40px; }
+            section { padding: 40px 0; }
+        }
+    </style>
+</head>
+<body>
+    <!-- Hero -->
+    <section class="hero">
+        <div class="container">
+            <h1>KI-Automatisierung<br>für Handwerk &amp; Mittelstand</h1>
+            <p class="subtitle">
+                Ich baue n8n-Workflows mit KI – damit Ihre Routineaufgaben laufen,<br>
+                ohne dass jemand dran denkt.
+            </p>
+            <p class="tagline">„Ich spreche beide Sprachen: die der Werkstatt und die der Digitalisierung.“</p>
+            <div style="margin-top: 36px;">
+                <a href="#kontakt" class="cta-button">Kostenloses Erstgespräch →</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Leistungen -->
+    <section id="leistungen">
+        <div class="container">
+            <h2>Leistungen</h2>
+            <p class="section-desc">Maßgeschneiderte Automatisierung – von der Analyse bis zum laufenden Betrieb.</p>
+            <div class="services-grid">
+                <div class="service-card">
+                    <div class="icon">🔍</div>
+                    <h3>Prozessanalyse &amp; Beratung</h3>
+                    <p>Wir identifizieren gemeinsam, welche Ihrer Abläufe sich automatisieren lassen – und wie viel Zeit das spart.</p>
+                    <span class="price">250–400 € (Halbtag)</span>
+                </div>
+                <div class="service-card">
+                    <div class="icon">⚡</div>
+                    <h3>n8n Workflow-Entwicklung</h3>
+                    <p>Von der automatischen Angebotserstellung bis zum KI-gestützten CRM – ich setze Ihre Idee um.</p>
+                    <span class="price">300–1.500 € pro Workflow</span>
+                </div>
+                <div class="service-card">
+                    <div class="icon">🤖</div>
+                    <h3>KI-Agenten &amp; API-Integration</h3>
+                    <p>Sprachmodelle, die für Sie arbeiten: E-Mail-Klassifizierung, Dokumentenverarbeitung, intelligente Assistenten.</p>
+                    <span class="price">ab 500 €</span>
+                </div>
+                <div class="service-card">
+                    <div class="icon">🔧</div>
+                    <h3>Wartung &amp; Support</h3>
+                    <p>Ihre Workflows laufen zuverlässig – monatliche Pflege, Updates und Anpassungen inklusive.</p>
+                    <span class="price">80–200 €/Monat</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Workflow-Beispiele -->
+    <section style="background: #f1f5f9;">
+        <div class="container">
+            <h2>Was ich für Sie bauen kann</h2>
+            <p class="section-desc">Konkrete Beispiele aus der Praxis – jedes davon habe ich selbst entwickelt und im Einsatz.</p>
+            <div class="workflow-list">
+                <div class="workflow-item">
+                    <div class="info">
+                        <h3>📄 Angebotserstellung automatisieren</h3>
+                        <p>Eingehende Anfragen → KI-Extraktion → PDF-Angebot → Freigabe → Versand</p>
+                    </div>
+                    <span class="result">−5 Std./Woche</span>
+                </div>
+                <div class="workflow-item">
+                    <div class="info">
+                        <h3>📅 Terminmanagement mit KI</h3>
+                        <p>WhatsApp, E-Mail &amp; Web → KI-Vorsortierung → Kalender → Bestätigung</p>
+                    </div>
+                    <span class="result">−3 Std./Woche</span>
+                </div>
+                <div class="workflow-item">
+                    <div class="info">
+                        <h3>📊 Kunden-CRM light</h3>
+                        <p>Neukunden → Rechnung → Mahnstufen → monatliche Zusammenfassung</p>
+                    </div>
+                    <span class="result">−100 € Ausfall/Monat</span>
+                </div>
+                <div class="workflow-item">
+                    <div class="info">
+                        <h3>🎯 KI-Lead-Qualifizierung</h3>
+                        <p>Anfragen bewerten → A/B/C-Score → sofortige Reaktion bei Top-Leads</p>
+                    </div>
+                    <span class="result">+40 % Abschlussrate</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Preise -->
+    <section id="preise">
+        <div class="container">
+            <h2>Preise</h2>
+            <p class="section-desc">Faire Festpreise – keine versteckten Kosten. Ihr Erstgespräch ist kostenlos.</p>
+            <table class="pricing-table">
+                <thead>
+                    <tr><th>Leistung</th><th>Preis (netto)</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td>Erstgespräch &amp; Prozesscheck (90 Min.)</td><td class="price-col free">kostenlos</td></tr>
+                    <tr><td>Prozessanalyse &amp; Beratung (Halbtag)</td><td class="price-col">250–400 €</td></tr>
+                    <tr><td>n8n Workflow-Entwicklung (einfach)</td><td class="price-col">300–600 €</td></tr>
+                    <tr><td>n8n Workflow-Entwicklung (komplex)</td><td class="price-col">600–1.500 €</td></tr>
+                    <tr><td>KI-Agenten &amp; API-Integration</td><td class="price-col">ab 500 €</td></tr>
+                    <tr><td>Monatliche Wartung &amp; Support</td><td class="price-col">80–200 €/Monat</td></tr>
+                    <tr><td>Stundensatz (Einzelleistungen)</td><td class="price-col">60–85 €</td></tr>
+                </tbody>
+            </table>
+        </div>
+    </section>
+
+    <!-- Über mich -->
+    <section style="background: #f1f5f9;">
+        <div class="container">
+            <h2>Über mich</h2>
+            <p class="section-desc">Industriemechaniker, der KI-Automation macht – und genau das ist mein Vorteil.</p>
+            <div class="about-grid">
+                <div>
+                    <h3>Werdegang</h3>
+                    <ul>
+                        <li>Ausgebildeter Industriemechaniker</li>
+                        <li>Mehrjährige Praxis in Maschinenbau &amp; Arbeitsvorbereitung</li>
+                        <li>3D-CAD (Fusion 360) &amp; digitale Produktentwicklung</li>
+                        <li>n8n &amp; KI-Automatisierung (seit 2024)</li>
+                        <li>Harvard CS50P (Python) – laufend</li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>Meine Arbeitsweise</h3>
+                    <ul>
+                        <li>Ich verstehe Handwerk – kein IT-Sprech, sondern echte Lösungen</li>
+                        <li>Pragmatisch: Was sofort funktioniert, ist besser als Perfektion nächste Woche</li>
+                        <li>Datenschutz first: Lokale KI-Modelle (Ollama) statt Cloud-Zwang</li>
+                        <li>Fair &amp; transparent: Festpreise, kein Abo-Zwang, keine Fallstricke</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Kontakt -->
+    <section id="kontakt">
+        <div class="container">
+            <div class="contact-box">
+                <h2>Starten wir gemeinsam</h2>
+                <p>90 Minuten kostenloses Erstgespräch – ohne Druck, ohne Verpflichtung.<br>
+                Ich höre zu, analysiere und zeige Ihnen, was möglich ist.</p>
+                <p class="email">📧 benjamin.franke@lifecycle-synergy.de</p>
+                <div style="margin-top: 20px;">
+                    <a href="https://github.com/frankebenjamin1983-hash/n8n-automation-portfolio" target="_blank" style="color: rgba(255,255,255,0.6); text-decoration: none; font-size: 0.9rem;">GitHub-Portfolio →</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>© 2025 Benjamin Franke – Lifecycle Synergy | KI-Automatisierung &amp; n8n-Entwicklung</p>
+            <p style="margin-top: 4px;">📍 Mobil von der Weser aus &nbsp;·&nbsp; 🛰️ Starlink &nbsp;·&nbsp; 🖥️ Selbst gehostet auf UpCloud</p>
+        </div>
+    </footer>
+</body>
+</html>
